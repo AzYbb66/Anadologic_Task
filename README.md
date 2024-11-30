@@ -23,6 +23,13 @@ Beni dinleyip bana bu alanda görev veren ve anlamama yardımcı olmaya çalış
 
 <ins> **UART_TASK** <br/> <br/>
 
+[UART_RX _TX.pdf](https://github.com/user-attachments/files/17967310/UART_RX._TX.pdf) <br/> <br/>
+
+[UART_TOP.pdf](https://github.com/user-attachments/files/17967311/UART_TOP.pdf) <br/> <br/>
+
+[UART_TB.pdf](https://github.com/user-attachments/files/17967312/UART_TB.pdf)
+
+
 
 
 
