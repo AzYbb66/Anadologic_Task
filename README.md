@@ -27,7 +27,9 @@ Beni dinleyip bana bu alanda görev veren ve anlamama yardımcı olmaya çalış
 
 [UART_TOP.pdf](https://github.com/user-attachments/files/17967311/UART_TOP.pdf) <br/> <br/>
 
-[UART_TB.pdf](https://github.com/user-attachments/files/17967312/UART_TB.pdf)
+[UART_TB.pdf](https://github.com/user-attachments/files/17967312/UART_TB.pdf) <br/> <br/> <br/> <br/>
+
+
 
 
 
