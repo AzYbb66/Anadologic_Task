@@ -37,6 +37,9 @@ Temel Uart Modülü Test Bench <br/> <br/>
 
 Task Uart Modülü Test Bench <br/> <br/>
 
+![Ekran görüntüsü 2024-12-02 214008](https://github.com/user-attachments/assets/c58f9149-157f-4f51-9fd4-8cc869c1a15b)
+
+
 
 
 
