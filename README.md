@@ -31,6 +31,10 @@ Beni dinleyip bana bu alanda görev veren ve anlamama yardımcı olmaya çalış
 
 
 
+![Ekran görüntüsü 2024-12-02 203339](https://github.com/user-attachments/assets/ea4097d0-7b4e-470a-992e-69f469e832e4)
+
+
+
 
 
 
